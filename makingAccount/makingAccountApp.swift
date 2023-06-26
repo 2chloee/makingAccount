@@ -12,6 +12,9 @@ struct makingAccountApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
+            Text("HI")
+            
         }
     }
 }
